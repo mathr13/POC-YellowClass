@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "273840511872",
+    "firebase_url": "https://yellow-af317.firebaseio.com",
+    "project_id": "yellow-af317",
+    "storage_bucket": "yellow-af317.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:273840511872:android:426efbb1425cfd2f923f65",
+        "android_client_info": {
+          "package_name": "com.example.poc_yellowclass"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "273840511872-4pefn38p0n5vsfsaobiie5vem1p0clr2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCDBjDyI1GayGDnkSzIOAHyHOuwthjeEH4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "273840511872-4pefn38p0n5vsfsaobiie5vem1p0clr2.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "273840511872-5eouaof88pt6iias8bjgr60l24i54ptn.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.yellowclass"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
